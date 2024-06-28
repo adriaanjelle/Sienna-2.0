@@ -1,7 +1,7 @@
 # Sienna 2.0
 
 ![](Sienna-2.0-1500px.jpg)  
-![](https://img.shields.io/github/downloads/adriaanjelle/Sienna-2.0/total?style=for-the-badge&logo=github&logoColor=FFFFFF) [![](https://img.shields.io/badge/DeviantArt-FFFFFF?style=for-the-badge&logo=deviantart&logoColor=FFFFFF&color=05CC47)](https://www.deviantart.com/adriaanjelle/art/Sienna-2-0-Updated-2024-06-17-983724087)
+![](https://img.shields.io/github/downloads/adriaanjelle/Sienna-2.0/total?style=for-the-badge&labelColor=1b3c46&color=1b3c46) [![](https://img.shields.io/badge/DeviantArt-FFFFFF?style=for-the-badge&logo=deviantart&logoColor=FFFFFF&color=05CC47)](https://www.deviantart.com/adriaanjelle/art/Sienna-2-0-Updated-2024-06-17-983724087)
 
 Totally not named after the MetArt model.
 
